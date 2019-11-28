@@ -1,0 +1,1 @@
+This project shows how to use Web Component in react and call method in Web Component from react component.
